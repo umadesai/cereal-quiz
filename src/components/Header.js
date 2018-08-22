@@ -28,7 +28,7 @@ function Header(props) {
       <img className="Cereal-logo" src={CT} alt="cereal"/>
       <img className="Cereal-logo" src={CC} alt="cereal"/>
       <img className="Cereal-logo" src={MW} alt="cereal"/>
-      <h1 className="App-title">WHICH CEREAL ARE YOU?</h1>
+      <h1 className="App-title">Which Cereal Are You?</h1>
     </header>
   );
 }
